@@ -1,5 +1,5 @@
 *** Settings ***
-Library         ../Resources/customLibrary.py
+Library         ./customLibrary.py
 
 *** Test Cases ***
 Custom Library Test
